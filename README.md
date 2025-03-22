@@ -7,5 +7,5 @@
   <h3> Tech Stack: </h3>
     Postgres v17.2 <br>
     Spring Boot Java v17 <br>
-    Angular v17 <br>
+    Angular v19 <br>
 </p>
